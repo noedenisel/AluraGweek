@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 1440px;
+    height: 2111px;
+}
+
+.topo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin: 0 auto;
+    width: 1136px;
+    height:115px;
+    justify-content: space-between;
+    padding: 32px, 0px, 32px, 0px
+}
+
+.logo{
+    display: flex;
+    width: 176px;
+    height: 50px;
+}

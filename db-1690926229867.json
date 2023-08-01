@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "Alura",
+      "imgUrl": "",
+      "price": "1",
+      "id": 1
+    },
+    {
+      "name": "Latam",
+      "imgUrl": "",
+      "price": "1",
+      "id": 2
+    },
+    {
+      "name": "Oracle",
+      "imgUrl": "",
+      "price": "1",
+      "id": 3
+    }
+  ]
+}
